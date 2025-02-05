@@ -2,9 +2,9 @@
 this is a starterpack for a forum website made with laravel 11. it's include a basic functionality like login, register, navbar, etc.
 
 ## Dependencies
-- (laravel-forum by TeamTeaTime)[https://github.com/Team-Tea-Time/laravel-forum]
-- (breeze)[https://github.com/laravel/breeze]
-- (livewire)[https://github.com/livewire/livewire]
+- [laravel-forum by TeamTeaTime](https://github.com/Team-Tea-Time/laravel-forum)
+- [breeze](https://github.com/laravel/breeze)
+- [livewire](https://github.com/livewire/livewire)
 
 ## Installation
 ```bash
