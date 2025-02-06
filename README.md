@@ -19,3 +19,6 @@ php artisan forum:preset-install blade-tailwind
 php artisan migrate
 npm install
 ```
+
+# License 
+This project is licensed under the MIT License.
